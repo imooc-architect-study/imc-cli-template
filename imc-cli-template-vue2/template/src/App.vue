@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     vue2 template
-    version：（1.0.1）
+    version：（1.0.2）
   </div>
 </template>
 
