@@ -1,6 +1,6 @@
 {
-  "name": "<%= name %>",
-  "version": "<%= version %>",
+  "name": "imc-cli-template-vue-element-admin",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
